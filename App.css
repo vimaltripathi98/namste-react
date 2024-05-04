@@ -18,3 +18,16 @@
 #child h1 {
   color: red;
 }
+
+#span_1,
+#span_3,
+#span_5,
+#span_7 {
+  color: red;
+  padding: 10px;
+}
+
+#heading_h5 {
+  border: 2px solid black;
+  padding: 20px;
+}
